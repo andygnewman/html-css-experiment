@@ -1,0 +1,21 @@
+p {
+  color: red;
+}
+
+.image-and-content {
+  border-width: 2px;
+  border-style: solid;
+  min-height: 204px;
+}
+
+.image {
+  float: left;
+}
+
+.content {
+  display: block;
+}
+
+.image-and-content {
+    width: 100%;
+}
